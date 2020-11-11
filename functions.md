@@ -57,3 +57,7 @@ sayHello();
 2. When you need the script to perform that task, you call the function.
 3. The function executed the code in that code block.
 4. When it has finished, the code continues to run from the point where it was initially called.
+
+
+
+5.
