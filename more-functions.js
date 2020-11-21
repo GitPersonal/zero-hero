@@ -38,11 +38,19 @@
 
 // ------------------------------------------
 // ------------------------------------------
-var msg = "Cool to change from javascript";
+// var msg = "Cool to change from javascript";
 
-function updateMessage() {
-    var el = document.getElementById('message');
-    el.textContent = msg;
-}
+// function updateMessage() {
+//     var el = document.getElementById('message');
+//     el.textContent = msg;
+// }
 
-updateMessage();
+// updateMessage();
+
+
+
+// -----
+// -----
+
+
+
